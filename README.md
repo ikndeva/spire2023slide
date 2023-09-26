@@ -6,7 +6,7 @@ Hiroki Arimura, Shunsuke Inenaga, Yasuaki Kobayashi, Yuto Nakashima, Mizuki Sue:
 
 * A longer version of the paper: <a href="https://arxiv.org/abs/2308.02269">arXiv 2308.02269, 2023</a>
 * The presentation slide, SPIRE 2023, Pisa, 26-28 Sep. 2023. 
-	+ `"slide_arimura_spire2023.pdf"` under the top fold of this github site.
+	+ `"slide_arimura_spire2023.pdf"` under the top of this github repository.
 
 <br/>
 
